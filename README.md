@@ -28,7 +28,7 @@ I'm an aspiring **Java Full Stack Developer** based in Bengaluru, India, current
 - 🎯 **Career Goal:** Looking for opportunities as a **Full Stack Java Developer**
 - 💡 **Interests:** Technology, Problem Solving, Backend Development
 - ⚡ **Fun Fact:** I'm always talking about truth — honesty matters to me, in code and in life.
-- 🎓 **Education:** Guru Ghasidas Vishwavidyalaya
+- 🎓 **Education:** Bachelor Of Technology
 
 ---
 
@@ -103,22 +103,30 @@ I'm an aspiring **Java Full Stack Developer** based in Bengaluru, India, current
 - **Tech Stack:** Java, Spring Boot, Spring Data JPA, REST API, H2 Database, Validation
 - **Highlights:** Layered architecture (Entity → Repository → Service → Controller), REST APIs, input validation, database integration
 <!-- Add your repo link below -->
-- **GitHub:** [Add your repository link here](https://github.com/YaswanthSaiKumar77)
+- **GitHub:** https://github.com/Yaswanth-Sai-Kumar/Rent_house
 - **Live Demo:** _Not deployed yet_
 
 <!-- Add more projects below in the same format as you build them -->
 ### 📌 Project 2
-- **Name:** _Coming soon_
-- **Description:** _Add description_
-- **Tech Stack:** _Add tech stack_
-- **GitHub:** _Add link_
+- **Name:** **Employee Leave Management System**
+- **Description:** Developed a secure Employee Leave Management System using Java, Spring Boot, Spring Security, JWT, and MySQL.
+• Implemented role-based authentication and authorization for Employees and Managers.
+• Built REST APIsfor employee management, leave application, approval,rejection, and cancellation.
+• Added leave balance management, date validation, global exception handling, and Swagger API documentation.
+• Used Spring Data JPA (Hibernate), Maven, and Git to build and manage the backend application.
+- **Tech Stack:** Spring Boot, Security, JWT, Spring Data JPA, MySQL, REST APIs, Swagger.
+- **GitHub:** https://github.com/Yaswanth-Sai-Kumar/Employee-Leave-Management-
 - **Live Demo:** _Add link_
 
 ### 📌 Project 3
-- **Name:** _Coming soon_
-- **Description:** _Add description_
-- **Tech Stack:** _Add tech stack_
-- **GitHub:** _Add link_
+- **Name:** **Employee Management System**
+- **Description:** Developed an Employee Management System using Spring MVC architecture.
+• Implemented employee registration through a web form.
+• Integrated MySQL database using Spring Data JPA and Hibernate.
+• Used MVC pattern with Controller, Entity, Repository, and View layers.
+• Successfully stored employee details in the database.
+- **Tech Stack:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Maven
+- **GitHub:** 
 - **Live Demo:** _Add link_
 
 ---
